@@ -1,0 +1,6 @@
+Hi — I’m <Your Name>. This is Our Voice, Our Rights — a Tamil Nadu-focused MGNREGA dashboard.
+1) Show homepage -> select district or use location.
+2) Show district dashboard; press the Listen (TTS) button to demonstrate Tamil + English support.
+3) Briefly open backend/etl/fetch_mgnrega.js and explain we snapshot data into Postgres so the site works when data.gov.in is down.
+4) Show docker-compose and README lines for deployment on a DigitalOcean droplet.
+Thank you.
